@@ -1,7 +1,9 @@
-# This repository includes some complemental materials for our project on detecting CNAME cloaking based trackers.
+a This repository includes some complemental materials for our project on detecting CNAME cloaking based trackers.
 
-A list of sites using CNAME cloaking based tracking (as of Jan 2020)
-Site_CNAME-cloaking-based-tracking.csv
+* A list of sites using CNAME cloaking based tracking (as of Jan 2020): Site_CNAME-cloaking-based-tracking.csv
+
+
+***
 
 Please refer the following paper when you quote our work.
 
