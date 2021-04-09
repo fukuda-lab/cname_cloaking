@@ -1,0 +1,117 @@
+#The list of tracking providers that are often disguised using CNAME. 
+***
+
+***
+
+last update: Friday April 9, 13:28:27 JST 2021
+
+
+1. Adobe Experience Cloud (formerly Omniture)
+#https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html?lang=en#section-78925af798e24917b9abed79de290ad9
+2o7.net
+sc.omtrdc.net
+
+2.  Pardot
+#https://help.salesforce.com/articleView?id=sf.pardot_admin_first_party_cookie_setup.htm&type=5
+go.pardot.com
+
+3. Act-On
+#https://connect.act-on.com/hc/en-us/articles/360023943153-Setting-Up-an-Oktopost-CNAME-Record
+actonservice.com
+actonsoftware.com
+
+
+4. Oracle Eloqua
+#https://docs.oracle.com/en/cloud/saas/marketing/cm-user/Help/GettingStarted/Tasks/SettingYourCNAMERecord.htm
+hs.eloqua.com
+
+
+5. Webtrekk
+#https://docs.mapp.com/display/BPC/Setting+up+the+Custom+Track+Domain
+webtrekk.net
+wt-eu02.net
+
+
+6. Eulerian
+# https://www.eulerian.com/en/blog/infos/first-party-collection
+eulerian.net
+
+
+7. Segment 
+#https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/custom-proxy/	
+xid.segment.com.
+
+
+8. (intent.com)
+partner.intentmedia.net
+
+
+9. PostAffiliate
+# https://www.postaffiliatepro.com/features/tracking-methods/
+postaffiliatepro.com
+
+
+10. AT Internet (formerly XiTi)
+# https://helpcentre.atinternet-solutions.com/hc/en-gb/articles/360013527040-Custom-domain-CDDC-
+at-o.net
+
+
+11. Adclear 
+# https://www.adclear.de/dateien/EN-1st-Party-Tracking_Track-domain-CNAME-Entry-SSL-Certificate.pdf
+adclear.net.
+
+12. Ingenious Technologies
+# https://www.ingenioustechnologies.com/wp-content/uploads/2015/04/Specifications-of-setup-services-for-Ingenious-Enterprise.pdf
+affex.org
+
+
+13. SugerMarket 
+# https://support.sugarcrm.com/Documentation/Market/Sugar_Market_User_Guide/Introduction/Sugar_Market_Settings_and_Preferences/
+msgapp.com
+
+14. Otto Group
+oghub.io	
+
+15. SAS 	
+# https://support.sas.com/content/dam/SAS/support/en/documentation/cintqsg.pdf
+ci360.sas.com.
+
+16. Rockerbox
+#https://help.rockerbox.com/docs/cname-integration
+cname.getrockerbox.com.
+
+17. Wizaly
+#https://www.wizaly.com/blog/
+wizaly.com
+
+18. Commanders Act
+# https://community.commandersact.com/platform/knowledge-base/cname-record
+tagcommander.com
+
+
+19. Criteo
+# https://www.criteo.com/solutions/
+dnsdelegation.io
+storetail.io
+
+20. Ensighten	
+# https://dsimg.ubm-us.net/envelope/131213/302752/1372282576_AdvancedUseCasesSony_Electronics.pdf
+ensighten.com
+
+
+21. Keyade
+k.keyade.com
+
+
+22. Blueshift	
+# https://help.blueshift.com/hc/en-us/articles/115002645913-Setup-Channels
+getblueshift.com.
+
+23. Matomo 	
+# https://matomo.org/migrate-to-matomo-cloud/
+matomo.cloud.
+
+24. Piwik 	
+#https://piwik.pro/blog/make-transition-piwik-community-piwik-pro-premium-web-analytics/
+piwik.pro.
+
